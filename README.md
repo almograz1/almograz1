@@ -12,7 +12,7 @@
   - 📌 Status: Undergoing development, currently at an early to mid stage.
 
 ## 🚀 Skills and Technologies:
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Language-Java-blue?logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Language-Python-yellow?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-orange?logo=cplusplus&logoColor=white" alt="C++">
@@ -22,7 +22,7 @@
 </p>
 
 ## 🖥️ Workspaces and Tools:
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
@@ -33,7 +33,8 @@
 </p>
 
 
-## <p align="left">
+## 
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almograz1&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
