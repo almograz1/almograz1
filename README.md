@@ -2,12 +2,12 @@
 
 ## 👨‍💻 About Me:
 - 🎓 I’m a Software Engineering student at Braude College of Engineering (Expected 2026).
-- 🌱 I’m currently studying **React** and developing a turn-based card game ([Cards Game](https://github.com/almograz1/cards-game/)), which is in the early to mid stages of development.
+- 🌱 I’m currently studying **C++** and **React** and developing a turn-based card game ([Newgrounds Card Clash](https://github.com/almograz1/cards-game/)), which is in the early to mid stages of development.
 - 💻 Experienced in **Java**, **C Lang**, **Python**, **JavaScript**, **C#**, and **MySQL**.
 - 📚 Always seeking to learn and grow in dynamic, fast-paced environments.
 
 ## 💡 Current Project:
-- 🔷 **[Cards Game](https://github.com/almograz1/cards-game/)**  
+- 🔷 **[Newgrounds Card Clash](https://github.com/almograz1/cards-game/)**  
   A turn-based 3x3 board game built using React. Players place cards with numerical values to capture adjacent cards, focusing on logic and strategy.  
   - 📌 Status: Undergoing development, currently at an early to mid stage.
 
